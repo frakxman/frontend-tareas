@@ -119,7 +119,7 @@ Este proyecto está bajo la Licencia MIT - ver el archivo [LICENSE.md](LICENSE.m
 
 ## ✍️ Autores
 
-- Fabián Rivera - *Desarrollo Inicial* - [TuUsuario](https://github.com/frakxman)
+- Fabián Rivera - *Desarrollo Inicial* - [Frakxman](https://github.com/frakxman)
 
 ## 🎉 Agradecimientos
 
